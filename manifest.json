@@ -1,0 +1,24 @@
+{
+  "manifestRevision": "1",
+  "guid": "final_hope",
+  "name": "Hope",
+  "version": "1.0.0",
+  "description": "AHHHHHHHHHHHH",
+  "assetMappings": [
+    {
+      "type": "Texture",
+      "target": "::Colt1911_Classic_BaseColor:",
+      "path": "base color.png"
+    },
+    {
+      "type": "Texture",
+      "target": "::Colt1911_Classic_BaseColor:_SpecTex",
+      "path": "alloy.png"
+    },
+    {
+      "type": "Texture",
+      "target": "::Colt1911_Classic_BaseColor:_BumpMap",
+      "path": "normal.png"
+    }
+  ]
+}
